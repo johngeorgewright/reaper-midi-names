@@ -1,0 +1,77 @@
+CC0 Bank Select MSB
+CC3 Bank Select MSB Piano
+CC4 Bank Select MSB Sample
+CC6 Bank Select MSB Live
+CC7 Volume
+CC8 Organ Edit Lower Manual
+CC9 Organ Enable
+CC10 Pan
+CC11 Ctrl Pedal (Expression)
+CC12 Organ Octave Shift
+CC13 Organ Level
+CC14 Organ Model
+CC15 Organ Preset
+CC16 Organ Drawbar 1
+CC17 Organ Drawbar 2
+CC18 Organ Drawbar 3
+CC19 Organ Drawbar 4
+CC20 Organ Drawbar 5
+CC21 Organ Drawbar 6
+CC22 Organ Drawbar 7
+CC23 Organ Drawbar 8
+CC24 Organ Drawbar 9
+CC25 Organ Percussion Enable
+CC26 Organ Vibrato Type
+CC27 Organ Vibrato Enable
+CC28 Organ Percussion Harmonic
+CC29 Organ Percussion Speed
+CC30 Organ Percussion Level
+CC32 Bank Select LSB
+CC33 Piano Enable
+CC34 Piano Level
+CC35 Piano Octave Shift
+CC36 Piano Type
+CC37 Piano Model
+CC38 Piano Variation
+CC40 Piano EQ
+CC42 Sample Synth Enable
+CC43 Sample Synth Level
+CC44 Sample Synth Octave Shift
+CC45 Sample Synth Sustain Pedal
+CC46 Sample Synth Ctrl Pedal
+CC68 Sample Synth Attack
+CC69 Sample Synth Decay/Release
+CC72 Sample Synth Dynamics
+CC73 Sample Synth Filter
+CC82 Effect 1 Enable
+CC83 Effect 1 Type
+CC84 Effect 1 Source
+CC85 Effect 1 Ctrl Ped
+CC86 Effect 1 Rate
+CC87 Effect 2 Type
+CC88 Effect 2 Source
+CC89 Effect 2 Deep
+CC90 Effect 2 Rate
+CC91 Effect 2 Enable
+CC92 Delay Source
+CC93 Delay Amount
+CC94 Delay Rate
+CC95 Delay Feedback
+CC96 Delay Mode
+CC97 Delay Enable
+CC98 Delay Ping-Pong
+CC100 Amp/Spkr Type
+CC101 Amp/Spkr Drive
+CC102 EQ Bass
+CC103 EQ Mid
+CC104 EQ Treble
+CC105 EQ Enable
+CC106 EQ Source
+CC107 EQ Mid Frequency
+CC108 Rotary Speed
+CC112 Reverb Bright
+CC113 Reverb Amount
+CC115 Reverb Type
+CC116 Reverb Enable
+CC118 Amp/Spkr Enable
+CC119 Amp/Spkr Source
