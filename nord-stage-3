@@ -1,0 +1,111 @@
+CC0 Bank Select MSB
+CC2 Live Mode
+CC3 Song Mode
+CC5 Song Part
+CC6 Panel Enable
+CC8 Panel Focus
+CC9 Organ Enable
+CC11 Ctrl Pedal (Expression)
+CC12 Organ Octave Shift
+CC13 Organ Level
+CC14 Organ Model
+CC15 Organ Preset
+CC16 Organ Drawbar 1
+CC17 Organ Drawbar 2
+CC18 Organ Drawbar 3
+CC19 Organ Drawbar 4
+CC20 Organ Drawbar 5
+CC21 Organ Drawbar 6
+CC22 Organ Drawbar 7
+CC23 Organ Drawbar 8
+CC24 Organ Drawbar 9
+CC25 Organ Percussion Enable
+CC26 Organ Vibrato Type
+CC27 Organ Vibrato Enable
+CC28 Organ Percussion Harmonic
+CC29 Organ Percussion Speed
+CC30 Organ Percussion Level
+CC32 Bank Select LSB
+CC33 Piano Enable
+CC34 Piano Level
+CC35 Piano Octave Shift
+CC36 Piano Type
+CC37 Piano Model
+CC38 Piano Variation
+CC39 Piano Layer Detune
+CC40 Piano EQ
+CC42 Synth Enable
+CC43 Synth Level
+CC44 Synth Octave Shift
+CC45 Synth Osc Config
+CC46 Synth Osc Bank
+CC47 Synth Osc Wave
+CC48 Synth Glide Rate
+CC49 Synth Voice Mode
+CC50 Synth Unison
+CC51 Synth Vibrato Mode
+CC52 Synth Mod Envelope Attack
+CC53 Synth Mod Envelope Decay
+CC54 Synth Mod Envelope Velocity
+CC55 Osc Pitch
+CC56 Osc Ctrl
+CC57 Synth Mod Envelope Release
+CC58 Synth Osc Modulation
+CC59 Synth Filter Freq
+CC60 Synth Filter Resonance
+CC61 Synth Filter Drive
+CC62 Synth Filter LFO Amount
+CC63 Synth Filter KBD Track
+CC64 Sustain
+CC65 Synth Filter Type
+CC66 Sostenuto
+CC67 Soft Pedal
+CC68 Synth Amp Envelope Attack
+CC69 Synth Amp Envelope Decay
+CC71 Synth Amp Envelope Release
+CC72 Synth Amp Envelope Velocity
+CC73 Synth Filter Modulation
+CC74 Synth Arpeggiator Rate
+CC75 Synth Arpeggiator Pattern
+CC76 Synth Arpeggiator Range
+CC77 Synth Arpeggiator Run
+CC78 Synth Keyboard Hold
+CC79 Synth LFO Rate
+CC80 Synth LFO Wave
+CC82 Effect 1 Enable
+CC83 Effect 1 Type
+CC84 Effect 1 Source
+CC85 Effect 1 Amount
+CC86 Effect 1 Rate
+CC87 Effect 2 Type
+CC88 Effect 2 Source
+CC89 Effect 2 Amount
+CC90 Effect 2 Rate
+CC91 Effect 2 Enable
+CC92 Delay Source
+CC93 Delay Amount
+CC94 Delay Rate
+CC95 Delay Feedback
+CC96 Delay Mode
+CC97 Delay Enable
+CC98 Delay Ping-Pong
+CC99 Delay Filter Type
+CC100 Amp/EQ Type
+CC101 Amp/EQ Drive
+CC102 Amp/EQ Bass
+CC103 Amp/EQ Mid
+CC104 Amp/EQ Treble
+CC105 Amp/EQ Enable
+CC106 Amp/EQ Source
+CC107 Amp/EQ Mid Frequency
+CC108 Rotary Speed
+CC109 Rotary Source
+CC110 Rotary Drive
+CC111 Rotary Enable
+CC112 Reverb Bright
+CC113 Reverb Amount
+CC115 Reverb Type
+CC116 Reverb Enable
+CC117 Compressor Amount
+CC118 Compressor Enable
+CC119 Compressor Mode
