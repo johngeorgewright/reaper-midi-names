@@ -1,27 +1,3 @@
-CC9 Organ Model Selector
-CC110 Synth Bass On/Off
-CC81 Speaker Sel
-CC88 Delay Tempo
-CC78 Delay Feedback
-CC75 Delay Swell Only
-CC76 Delay Amount
-CC80 Delay On/Off
-CC113 EQ Treble
-CC116 EQ Mid
-CC114 EQ Bass
-CC115 EQ On/Off
-CC111 Drive Amount
-CC112 Drive On/Off
-CC102 Reverb Amount
-CC96 Reverb Selection
-CC97 Reverb On/Off
-CC84 Vib/Chorus/Trem Mode
-CC85 Vib On/Off (SW/GR)
-CC3 Drawbar/Presets
-CC117 Ped Great Man
-CC82 Rotary Speaker Control
-CC103 Ped/GR Low coupler 
-CC104 SW 16/GR - SW/GR
 CC16 Drawbar A1
 CC17 Drawbar A2
 CC18 Drawbar A3
@@ -31,21 +7,45 @@ CC21 Drawbar A6
 CC22 Drawbar A7
 CC23 Drawbar A8
 CC24 Drawbar A9
+CC27 Perc Fast
+CC28 Perc Soft
+CC3 Drawbar/Presets
 CC36 Drawbar B1
 CC37 Drawbar B2
 CC38 Drawbar B3
 CC39 Drawbar B4
+CC4 Swell Pedal
 CC40 Drawbar B5
 CC41 Drawbar B6
 CC42 Drawbar B7
 CC43 Drawbar B8
 CC44 Drawbar B9
+CC64 Sustain Pedal
+CC75 Delay Swell Only
+CC76 Delay Amount
+CC78 Delay Feedback
+CC80 Delay On/Off
+CC81 Speaker Sel
+CC82 Rotary Control
+CC82 Rotary Speaker Control
+CC84 Vib/Chorus/Trem Mode
+CC85 Vib On/Off (SW/GR)
 CC87 Perc On/Off
-CC28 Perc Soft
-CC27 Perc Fast
+CC88 Delay Tempo
+CC9 Organ Model Selector
 CC95 Perc Third
+CC96 Reverb Selection
+CC97 Reverb On/Off
+CC102 Reverb Amount
+CC103 Ped/GR Low coupler 
+CC104 SW 16/GR - SW/GR
 CC105 Swell 16 & 4 coupler
 CC106 Swell/Ped & Gr/Ped coupler
-CC64 Sustain Pedal
-CC4 Swell Pedal
-CC82 Rotary Control
+CC110 Synth Bass On/Off
+CC111 Drive Amount
+CC112 Drive On/Off
+CC113 EQ Treble
+CC114 EQ Bass
+CC115 EQ On/Off
+CC116 EQ Mid
+CC117 Ped Great Man
