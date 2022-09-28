@@ -1,3 +1,6 @@
+CC3 Drawbar/Presets
+CC4 Swell Pedal
+CC9 Organ Model Selector
 CC16 Drawbar A1
 CC17 Drawbar A2
 CC18 Drawbar A3
@@ -9,12 +12,10 @@ CC23 Drawbar A8
 CC24 Drawbar A9
 CC27 Perc Fast
 CC28 Perc Soft
-CC3 Drawbar/Presets
 CC36 Drawbar B1
 CC37 Drawbar B2
 CC38 Drawbar B3
 CC39 Drawbar B4
-CC4 Swell Pedal
 CC40 Drawbar B5
 CC41 Drawbar B6
 CC42 Drawbar B7
@@ -32,7 +33,6 @@ CC84 Vib/Chorus/Trem Mode
 CC85 Vib On/Off (SW/GR)
 CC87 Perc On/Off
 CC88 Delay Tempo
-CC9 Organ Model Selector
 CC95 Perc Third
 CC96 Reverb Selection
 CC97 Reverb On/Off
