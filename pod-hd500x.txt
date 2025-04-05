@@ -1,0 +1,21 @@
+CC1 EXP-1 Pedal Assignment
+CC2 EXP-2 Pedal Assignment
+CC51 Toggles FS1 Assignment On/Off
+CC52 Toggles FS2 Assignment On/Off
+CC53 Toggles FS3 Assignment On/Off
+CC54 Toggles FS4 Assignment On/Off
+CC55 Toggles FS5 Assignment On/Off
+CC56 Toggles FS6 Assignment On/Off
+CC57 Toggles FS7 Assignment On/Off
+CC58 Toggles FS8 Assignment On/Off
+CC59 Toggles EXP Toe Switch Assignment On/Off
+CC60 Looper Record/Overdub Switch
+CC61 Looper Play/Stop Switch
+CC62 Looper Play Once Switch
+CC63 Looper Under Switch
+CC64 Tap Tempo - Enter Tap Tempo
+CC65 Looper Forward/Reverse Switch
+CC67 Looper Per/Post Position Switch
+CC68 Looper Full/Half Speed Switch
+CC69 Tuner Mode On/Off
+CC99 Looper Mode On/Off
