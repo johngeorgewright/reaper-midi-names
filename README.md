@@ -2,4 +2,4 @@
 Reaper MIDI Names
 
 ## Usage
-Copy or checkout in to /Users/john/Library/Application Support/REAPER/MIDINoteNames
+Copy or checkout in to /Users/[username]/Library/Application Support/REAPER/MIDINoteNames
